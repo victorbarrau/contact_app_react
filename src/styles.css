@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;700;800&display=swap");
+*,
+*::after,
+*::before {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Inter", "Helvetica Neue";
+  background-color: #FA8072;
+}
+.contacts {
+  font-size: 1.5em;
+  align-items: center;
+}
+
+.index {
+
+}
+.button{
+  font-size:3em;
+  size:1,5em;
+}
